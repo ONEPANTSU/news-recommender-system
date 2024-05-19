@@ -1,0 +1,7 @@
+[submodule "news-classifier-service"]
+	path = news-classifier-service
+	url = https://github.com/ONEPANTSU/news-classifier-service.git
+	branch = best-model
+[submodule "news-recommender-service"]
+	path = news-recommender-service
+	url = https://github.com/ONEPANTSU/news-recommender-service
